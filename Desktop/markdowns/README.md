@@ -1,89 +1,100 @@
-<!--Headings-->
+<!-- Headings -->
 
-# Shasank
+# Heading 1
 
-## Shasank
+## Heading 2
 
-### Shasank
+### Heading 3
 
-#### Shasank
+#### Heading 4
 
-##### Shasank
+##### Heading 5
 
-<!--Italics-->
+###### Heading 6
 
-_Shasank_
-_Shasank_
+<!-- Italics -->
 
-<!--Strong-->
+_This text_ is italic
 
-**Shasank**
-**Shasank**
+_This text_ is italic
 
-<!--Strikethrough-->
+<!-- Strong -->
 
-~~Shasank~~
+**This text** is italic
 
-## <!--Horizontal rule-->
+**This text** is italic
+
+<!-- Strikethrough -->
+
+~~This text~~ is strikethrough
+
+<!-- Horizontal Rule -->
 
 ---
 
-<!--Blockquote-->
+---
 
-> Shasank
+<!-- Blockquote -->
 
-<!--links-->
+> This is a quote
 
-[Shasank](https://github.com/greenlant)
+<!-- Links -->
 
-<!--link with title-->
+[Traversy Media](http://www.traversymedia.com)
 
-[Shasank](https://github.com/greenlant "CLick to view Shasank's github profile")
+[Traversy Media](http://www.traversymedia.com "Traversy Media")
 
-<!--list-->
+<!-- UL -->
 
-- one
-- two
-- three
-  - Nested one
-  - Nested two
+- Item 1
+- Item 2
+- Item 3
+  - Nested Item 1
+  - Nested Item 2
 
-<!--Ordered Lists-->
+<!-- OL -->
 
-1. first one
-1. Second one
-1. Third one
+1. Item 1
+1. Item 2
+1. Item 3
 
-<!--Inline Code block-->
-<p>This is an into to my github profile. A paragraph can be written in this space</p>
+<!-- Inline Code Block -->
 
-<!--Images-->
-<img src="D:\images\511412.jpg" style="height: 100px; width:100px;"/>
-<!--Github markdown-->
+`<p>This is a paragraph</p>`
 
-<!--code blocks-->
+<!-- Images -->
 
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github Markdown -->
+
+<!-- Code Blocks -->
+
+```bash
+  npm install
+
+  npm start
 ```
-npm install
 
-npm start
-```
-
-```java
-public int repo(int[] arr)
-{
-    System.Out.Println(int[] arr)
+```javascript
+function add(num1, num2) {
+  return num1 + num2;
 }
 ```
 
-<!--tables-->
+```python
+  def add(num1, num2):
+    return num1 + num2
+```
 
-| Name        | Email                                |
-| ----------- | ------------------------------------ |
-| Shasank     | shasankt01@gmail.com                 |
-| Shasank clg | 319106203011@andhrauniversity.edu.in |
+<!-- Tables -->
 
-<!-- Task Lists-->
+| Name     | Email          |
+| -------- | -------------- |
+| John Doe | john@gmail.com |
+| Jane Doe | jane@gmail.com |
+
+<!-- Task List -->
 
 - [x] Task 1
 - [x] Task 2
