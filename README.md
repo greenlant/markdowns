@@ -42,9 +42,9 @@ _This text_ is italic
 
 <!-- Links -->
 
-[Traversy Media](http://www.traversymedia.com)
+[Shasank](https://github.com/greenlant)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+[Shasank's Github](https://github.com/greenlant "Shasank's Github")
 
 <!-- UL -->
 
@@ -66,7 +66,7 @@ _This text_ is italic
 
 <!-- Images -->
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Github Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPPlnUnhPRbSLfZr0TctDI3RN7mB7hqw8aqJjMCZaS9NvUQk&s)
 
 <!-- Github Markdown -->
 
@@ -98,10 +98,10 @@ function add(num1, num2) {
 
 <!-- Tables -->
 
-| Name     | Email          |
-| -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Name             | Email                                |
+| ---------------- | ------------------------------------ |
+| Shasank personal | shasankt01@gmail.com                 |
+| Shasank college  | 319106203011@andhrauniversity.edu.in |
 
 <!-- Task List -->
 
