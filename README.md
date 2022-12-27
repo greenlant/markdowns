@@ -1,6 +1,6 @@
 # markdowns
 
-`<p> This is a markdown file which lists the syntax of markdown.<p>
+`<p> This is a markdown file which lists the syntax of markdown.Go through the raw data and preview yourself in vscode.<p>
 
 <!-- Headings -->
 
